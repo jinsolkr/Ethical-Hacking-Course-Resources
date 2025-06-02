@@ -7,17 +7,17 @@ Compilation of Resources from UCYBERS's Course
 
 ## 🔗 General Links 
 
--  🌐 Link to Website: [***UCYBERS***](https://ucybers.com/)  ![UCYBERS ICON](https://github.com/user-attachments/assets/11cc7935-f26b-481f-b680-bad277af5e0e)
+-  Link to Website: [***UCYBERS***](https://ucybers.com/)  
 
 
--  🎓 Link to the course: 
+-   Link to the course: 
       -  [Ethical Hacking Course](https://academy.ucybers.com/p/ethical-hacking-course) (UCYBERS Academy)
 
-- ![icons8-discord-24](https://github.com/user-attachments/assets/7bd05388-01d8-4ac7-89e1-5ef48206a77a) Link to discord server: [UCYBERS Discord servers](https://discord.gg/yceYGPce6e)  
+-   Link to discord server: [UCYBERS Discord servers](https://discord.gg/yceYGPce6e)  
 
 
 
--  ❓ FAQ:  [Ethical Hacking Course FAQ](https://github.com/Dark0x0x/Ethical-Hacking-Course-FAQ)
+-   FAQ:  [Ethical Hacking Course FAQ](https://github.com/Dark0x0x/Ethical-Hacking-Course-FAQ)
 
 ## 📒 Note Keeping
 
