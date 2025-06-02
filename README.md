@@ -1,30 +1,31 @@
-# Ethical-Hacking-Course-Resources
+# Ethical Hacking Course Resources
 Compilation of Resources from UCYBERS's Course 
 
-### General Links 
+## 🔗 General Links 
 
-Link to Website: https://www.ucybers.com/
+-  🌐 Link to Website: [***UCYBERS***](https://ucybers.com/)  ![UCYBERS ICON](https://github.com/user-attachments/assets/11cc7935-f26b-481f-b680-bad277af5e0e)
 
-Link to the course: 
-* https://academy.ucybers.com/p/ethical-hacking-course (UCYBERS Academy)
 
-Link to discord server: https://discord.gg/FXgT8fdGyY
+-  🎓 Link to the course: 
+      -  [Ethical Hacking Course](https://academy.ucybers.com/p/ethical-hacking-course) (UCYBERS Academy)
 
-FAQ: https://github.com/Dark0x0x/Ethical-Hacking-Course-FAQ
+- ![icons8-discord-24](https://github.com/user-attachments/assets/7bd05388-01d8-4ac7-89e1-5ef48206a77a) Link to discord server: [UCYBERS Discord servers](https://discord.gg/yceYGPce6e)  
 
-### Note Keeping
 
-Notion: https://www.notion.com/
 
-Obsidian: https://obsidian.md/
+-  ❓ FAQ:  [Ethical Hacking Course FAQ](https://github.com/Dark0x0x/Ethical-Hacking-Course-FAQ)
 
-Trilium: https://github.com/zadam/trilium
+## 📒 Note Keeping
 
-KeepNote: http://keepnote.org/
+ -  ![icons8-notion-24](https://github.com/user-attachments/assets/4ab5c66a-b09e-4e63-ad3f-8395782f771a)   [Notion](https://www.notion.com/)   
 
-CherryTree: https://www.giuspen.com/cherrytree/
+ -  ![obsidian-icon (1)](https://github.com/user-attachments/assets/504271f0-b43b-4853-bd5d-307b8c08e9e3)  [Obsidian ](https://obsidian.md/)
 
-GreenShot: https://getgreenshot.org/downloads/
+ - ![cherrytree-icon-2048x2026-337z5zen (1)](https://github.com/user-attachments/assets/a30225ad-073f-4ff6-ad7e-0c4899a5285e)
+ [CherryTree](https://www.giuspen.com/cherrytree/)
+
+ -  ![Greenshot_logo svg (1)](https://github.com/user-attachments/assets/c3212c18-b309-40cf-a326-7b6e4059b4b6)
+[GreenShot](https://getgreenshot.org/downloads/)
 
 FlameShot: https://github.com/lupoDharkael/flameshot
 
