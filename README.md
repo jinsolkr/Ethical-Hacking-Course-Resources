@@ -1,6 +1,10 @@
 # Ethical Hacking Course Resources
 Compilation of Resources from UCYBERS's Course 
 
+
+![Ethical Hacking Course Resources UCYBERS](https://github.com/user-attachments/assets/dc933440-d633-4151-ae82-253cdb869bc1)
+
+
 ## 🔗 General Links 
 
 -  🌐 Link to Website: [***UCYBERS***](https://ucybers.com/)  ![UCYBERS ICON](https://github.com/user-attachments/assets/11cc7935-f26b-481f-b680-bad277af5e0e)
