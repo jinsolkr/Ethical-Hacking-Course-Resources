@@ -31,54 +31,61 @@ Compilation of Resources from UCYBERS's Course
  -  ![Greenshot_logo svg (1)](https://github.com/user-attachments/assets/c3212c18-b309-40cf-a326-7b6e4059b4b6)
 [GreenShot](https://getgreenshot.org/downloads/)
 
-FlameShot: https://github.com/lupoDharkael/flameshot
+ -  ![flameshot svg (1)](https://github.com/user-attachments/assets/bfefcf67-2463-42a9-8fd4-5b6e93f065fe)
+[FlameShot](https://github.com/lupoDharkael/flameshot)
 
-OneNote: https://products.office.com/en-us/onenote/digital-note-taking-app?rtc=1
+ -  ![icons8-microsoft-onenote-24](https://github.com/user-attachments/assets/3b19a05b-ba9a-4d5c-b237-f36e57ff8ad2)
+[OneNote](https://products.office.com/en-us/onenote/digital-note-taking-app?rtc=1)
 
-Joplin: https://github.com/laurent22/joplin
+ -   ![Joplin-icon svg (1)](https://github.com/user-attachments/assets/bda71a62-f3d6-453c-b70c-d48586ce84df)
+[Joplin](https://github.com/laurent22/joplin)
 
-### Networking Refresher
-Seven Second Subnetting: https://www.youtube.com/watch?v=ZxAwQB8TZsM
+## 🖧 Networking Refresher
+ -   [Seven Second Subnetting](https://www.youtube.com/watch?v=ZxAwQB8TZsM)
 
-Subnet Guide: https://docs.google.com/spreadsheets/d/1sr6DiM3jhuj6uFvMfKK8zQfGSj9a42IA/edit?usp=sharing&ouid=112290104721208373103&rtpof=true&sd=true
-### Setting up our Lab
-VMware: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+ -   [Subnet Guide](https://docs.google.com/spreadsheets/d/1sr6DiM3jhuj6uFvMfKK8zQfGSj9a42IA/edit?usp=sharing&ouid=112290104721208373103&rtpof=true&sd=true)
+## 🛠️ Setting up our Lab
+ -    ![icons8-vmware-workstation-player-24](https://github.com/user-attachments/assets/2b3e5b6b-9399-49ca-9770-f769ac1098f9)
+[VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
-VirtualBox: https://www.virtualbox.org/wiki/Downloads
+ -  ![VirtualBox_23525 (1)](https://github.com/user-attachments/assets/122777d8-d70d-4749-9dbe-c27038b50440)
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+ -  ![icons8-kali-linux-24](https://github.com/user-attachments/assets/35728dea-6b1d-42ad-94d9-cb06a52d78df)
+[Kali Download](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)
 
-Other Offical kali 2025 Releases: https://cdimage.kali.org/
+-   ![icons8-cd-24](https://github.com/user-attachments/assets/27671be4-b85f-462b-b3b0-7fd18749acaa)
+  [Other Offical kali 2025 Releases](https://cdimage.kali.org/)
 
-### Mid-Course Capstone
-Pentesting VMs boxes: https://drive.google.com/drive/folders/1w_xOhT-4RlCbMzoHdBsmXpqIGgUeVsEr?usp=drive_link
+## 👩🏻‍💻 Mid-Course Capstone
+-  [Pentesting VMs boxes](https://drive.google.com/drive/folders/1w_xOhT-4RlCbMzoHdBsmXpqIGgUeVsEr?usp=drive_link)
 
-C Programming For Hacking course: https://academy.ucybers.com/p/c-programming-for-hacking
+-  [C Programming For Hacking course](https://academy.ucybers.com/p/c-programming-for-hacking)
 
-Network+ Course: https://academy.ucybers.com/p/network
+- [Network+ Course](https://academy.ucybers.com/p/network)
 
-### Introduction to Exploit Development (Buffer Overflows)
-Immunity Debugger: https://www.immunityinc.com/products/debugger/
+## Introduction to Exploit Development (Buffer Overflows)
+-  [Immunity Debugger](https://www.immunityinc.com/products/debugger/
+)
+-   [Vulnserver](http://www.thegreycorner.com/p/vulnserver.html)
 
-Vulnserver: http://www.thegreycorner.com/p/vulnserver.html
+[Bad Chars](https://www.ins1gn1a.com/identifying-bad-characters/)
 
-Bad Chars: https://www.ins1gn1a.com/identifying-bad-characters/
+## Attacking Active Directory: Initial Attack Vectors
 
-### Attacking Active Directory: Initial Attack Vectors
+[Top Five Ways I Got DA on Your Internal Network Before Lunch ](https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
-Top Five Ways I Got DA on Your Internal Network Before Lunch: https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa 
+[mitm6](https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/)
 
-mitm6: https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
+[Combining NTLM Relays and Kerberos Delegation](https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/)
 
-Combining NTLM Relays and Kerberos Delegation: https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/
+## Attacking Active Directory: Post-Compromise Enumeration
+[PowerView Cheat Sheet](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
 
-### Attacking Active Directory: Post-Compromise Enumeration
-PowerView Cheat Sheet: https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993
+## Attacking Active Directory: Post-Compromise Attacks
+[Group Policy Pwnage](https://blog.rapid7.com/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/)
 
-### Attacking Active Directory: Post-Compromise Attacks
-Group Policy Pwnage: https://blog.rapid7.com/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/
-
-Mimikatz: https://github.com/gentilkiwi/mimikatz
+[Mimikatz](https://github.com/gentilkiwi/mimikatz)
 
 Active Directory Security Blog: https://adsecurity.org/
 
@@ -93,7 +100,7 @@ eLS PTX: https://www.elearnsecurity.com/course/penetration_testing_extreme/
 ### Web Application Enumeration, Revisited
 sumrecon: https://github.com/thatonetester/sumrecon
 
-### Testing the Top 10 Web Application Vulnerabilities
+## Testing the Top 10 Web Application Vulnerabilities
  OWASP Top 10: https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
  
  OWASP Testing Checklist: https://github.com/tanprathan/OWASP-Testing-Checklist
@@ -128,7 +135,7 @@ sumrecon: https://github.com/thatonetester/sumrecon
  
  OWASP A10-Insufficient Logging & Monitoring: https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring.html
  
- ### Legal Documents and Report Writing
+ ## Legal Documents and Report Writing
  Sample Pentest Report: https://github.com/UCYBERS/UCYBERS-Sample-Pentest-Report
   
  ## Tools
@@ -157,5 +164,5 @@ sumrecon: https://github.com/thatonetester/sumrecon
  #### sumrecon 
  * Github: https://github.com/thatonetester/sumrecon
  
- ### Setting up Your AD Lab Using Azure
+ ## Setting up Your AD Lab Using Azure
  Building Free AD lab: https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f
