@@ -1,3 +1,7 @@
+
+![Ethical Hacking Course Resources](https://github.com/user-attachments/assets/54ac602e-54df-4ac6-962f-de5d2f226e8b)
+
+
 # 🚀 Ethical Hacking Course Resources
 >  ⚠️ Everything you need throughout the course – organized, practical, and easy to access. 
 
