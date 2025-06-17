@@ -1,5 +1,5 @@
-# 🚀 Ethical Hacking Course – Resources by **UCYBERS**
-> ### Everything you need throughout the course – organized, practical, and easy to access. 
+# 🚀 Ethical Hacking Course Resources
+>  ⚠️ Everything you need throughout the course – organized, practical, and easy to access. 
 
 
 # 🌐 General Links 
@@ -138,4 +138,4 @@
   - 🏗️ [Step-by-Step Guide to Build Free AD Lab on Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
     
 
-> ### 💬 Questions? Feedback? Reach out via our Discord or through the course dashboard.
+> ⚠️ 💬 Questions? Feedback? Reach out via our Discord or through the course dashboard.
